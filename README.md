@@ -9,7 +9,7 @@
 🚀 Who am I?
 
 I'm currently navigating the fascinating world of software engineering as a student at Atilim University in Ankara, Turkey.
-My journey so far has been an exciting ride, diving into the depths of HTML, Python, C, C++, SQL and exploring new galaxies of code.
+My journey so far has been an exciting ride, diving into the depths of Python, C, C++, SQL and exploring new galaxies of code.
 
 📬 Let's Connect!
 
