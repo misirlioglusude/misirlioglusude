@@ -1,14 +1,14 @@
 <div id="header" align="left">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://camo.githubusercontent.com/b70081ec9c6d16a35bf18610619030bfc810cda3118051cf75ace93700e233c1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966)" width="100"/>
+  <img src="https://camo.githubusercontent.com/5356611dd0958b0c65aec9a3a2cb8ef76684d164e172332f72f63b0ce027f734/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63642f36662f32342f63643666323430643634363765373462313435323939316136333861646639392e676966" width="100"/>
 </div>
 
 ---
 
-🌟Hello, Universe! I'm Sude Mısırlıoğlu.🌟
+🌟Hello! I'm Sude Mısırlıoğlu.🌟
 
 🚀 Who am I?
 
-I'm currently navigating the fascinating world of software engineering as a student at Atilim University in Ankara, Turkey.
+I'm currently navigating the fascinating world of software engineering as a new graduate at Atilim University in Ankara, Turkey.
 My journey so far has been an exciting ride, diving into the depths of Python, C, C++, SQL and exploring new galaxies of code.
 
 📬 Let's Connect!
