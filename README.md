@@ -1,15 +1,14 @@
 <div id="header" align="left">
-  <img src="https://camo.githubusercontent.com/5356611dd0958b0c65aec9a3a2cb8ef76684d164e172332f72f63b0ce027f734/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63642f36662f32342f63643666323430643634363765373462313435323939316136333861646639392e676966" width="200"/>
+  <img src="https://camo.githubusercontent.com/5356611dd0958b0c65aec9a3a2cb8ef76684d164e172332f72f63b0ce027f734/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63642f36662f32342f63643666323430643634363765373462313435323939316136333861646639392e676966" width="250"/>
 </div>
 
 ---
 
-🌟Hello! I'm Sude Mısırlıoğlu.🌟
+🌟Welcome to my GitHub Profile! I'm Sude Mısırlıoğlu.🌟
 
-🚀 Who am I?
+💻 Who am I?
 
-I'm currently navigating the fascinating world of software engineering as a new graduate at Atilim University in Ankara, Turkey.
-My journey so far has been an exciting ride, diving into the depths of Python, C, C++, SQL and exploring new galaxies of code.
+I just received my degree in software engineering from Atilim University in Ankara, Turkey. I am passionate about creating innovative solutions and tackling complex challenges. I'm really interested in artificial intelligence (AI) and data science, and I like to use technology to analyze data for insights and make wise decisions. I also like to keep learning new skills and contributing to open-source projects.
 
 📬 Let's Connect!
 
