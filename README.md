@@ -24,8 +24,12 @@ Feel free to reach out to me!
 
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=misirlioglusude&theme=dark&background=000000)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misirlioglusude&layout=compact&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misirlioglusude&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![misirlioglusude's GitHub stats](https://github-readme-stats.vercel.app/api?username=misirlioglusude&show_icons=true&theme=dracula)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=misirlioglusude&theme=dracula)](https://git.io/streak-stats)
 
 
