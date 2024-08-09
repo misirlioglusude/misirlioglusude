@@ -8,7 +8,7 @@
 
 💻 Who am I?
 
-I just received my degree in software engineering from Atılım University in Ankara, Turkey. I am passionate about creating innovative solutions and tackling complex challenges. I'm really interested in artificial intelligence (AI) and data science, and I like to use technology to analyze data for insights and make wise decisions. I also like to keep learning new skills and contributing to open-source projects.
+I just received my degree in software engineering from Atılım University in Ankara, Turkey. I am passionate about creating innovative solutions and tackling complex challenges. I'm really interested in artificial intelligence (AI), data science and software testing, and I like to use technology to analyze data for insights and make wise decisions. I also like to keep learning new skills and contributing to open-source projects.
 
 📬 Let's Connect!
 
