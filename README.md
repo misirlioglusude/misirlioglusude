@@ -2,7 +2,7 @@
 <h3 align="left">A recent graduate software engineer from Turkey</h3>
 <img align="right" alt="Coding" width=200" "height=50" src="https://giffiles.alphacoders.com/121/12113.gif">
 
-- 🔭 I’m currently working on **python backend development**
+- 🔭 I’m currently working on **mobile application development**
 
 - 🌱 I’m currently learning **flask**
 
