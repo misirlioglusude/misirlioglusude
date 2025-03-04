@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **backend developments**
 
-- 👨‍💻 All of my projects are available at [https://misirlioglusude.tech/](https://misirlioglusude.tech/)
+- 👨‍💻 All of my informations are available at [https://misirlioglusude.tech/](https://misirlioglusude.tech/)
 
 - 📫 How to reach me **misirlioglusude@gmail.com**
 
