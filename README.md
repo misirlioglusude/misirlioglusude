@@ -8,8 +8,6 @@
 
 - 🤝 I’m looking for help with **backend developments**
 
-- 👨‍💻 All of my informations are available at [https://misirlioglusude.tech/](https://misirlioglusude.tech/)
-
 - 📫 How to reach me **misirlioglusude@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
