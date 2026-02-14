@@ -2,11 +2,11 @@
 <h3 align="left">Junior Software Engineer from Turkey</h3>
 <img align="right" alt="Coding" width=200" "height=50" src="https://giffiles.alphacoders.com/121/12113.gif">
 
-- 🔭 I’m currently working on **mobile application development**
+- 🔭 I’m currently building mobile apps with React Native (Expo) and working on .NET/C# projects
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m improving my JavaScript/TypeScript skills
 
-- 🤝 I’m looking for help with **backend developments**
+- 🤝 I’m looking for help/collaboration on backend development (Node.js/ASP.NET, REST APIs)
 
 - 📫 How to reach me **misirlioglusude@gmail.com**
 
